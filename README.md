@@ -1,89 +1,136 @@
-# 🚀 Krishna Paikine  
-**Full-Stack Developer • AI Systems Engineer • IIT Kharagpur**
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Krishna+%F0%9F%91%8B;Full-Stack+%26+AI+Systems+Engineer;I+build+things+that+actually+ship." alt="Typing SVG" />
+
+**B.Tech Electrical Engineering · IIT Kharagpur · Class of 2026**
+
+<a href="https://www.linkedin.com/in/krishnapaikine"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/kalki_kgp"><img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white"/></a>
+<a href="https://www.instagram.com/krishnabewildin/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://paperknife.app"><img src="https://img.shields.io/badge/paperknife.app-%23000?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnapaikine)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/krishnabewildin/)  
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/kalki_kgp)
+## About
+
+I'm a builder at heart — full-stack systems, AI agents, real-time infrastructure, privacy-first products. I care about software that works at scale and ships to real users.
+
+- 🥇 **Gold Medal** — Inter-IIT Tech Meet 13.0, Development Track
+- 🏗️ **Software Engineer, Founding Team** @ Neosophical Labs — AI-powered HRMS automation for UK enterprise clients
+- 💼 **SWE Intern** @ FruitBowl Digital Media — AI agents, LiveKit, vLLM, RAG pipelines, Kubernetes
 
 ---
 
-# 🧠 What I Do
+## Featured Projects
 
-### **🖥️ Full-Stack Engineering**
-- Next.js, React, React Native, TypeScript  
-- Scalable API design (FastAPI, Django, Node.js)  
-- Real-time systems (WebSockets, LiveKit, SIP, streaming pipelines)
-
-### **🤖 AI + ML Engineering**
-- LLM apps, RAG, embeddings, LangChain, LangGraph  
-- Real-time inference, graph memory, personalization engines  
-
-### **☁️ Cloud & DevOps**
-- AWS (ECS, ECR, S3, CloudWatch), Docker, Kubernetes  
-- CI/CD (GitHub Actions, Helm), distributed task queues (Celery + Redis)
-
-
-# 🛠️ Tech Stack
-
-### **Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### **Frameworks**
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0077FF?style=for-the-badge)
-![Weaviate](https://img.shields.io/badge/Weaviate-20C997?style=for-the-badge)
-
-
-
-### **Other**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔪 <a href="https://paperknife.app">PaperKnife</a></h3>
+      <p>Privacy-first PDF utility. <strong>200–300 users/day</strong>, zero server-side processing — everything runs in your browser. Merge, split, compress, encrypt, convert, sign. Open source, has an Android app.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white"/>
+        <img src="https://img.shields.io/github/stars/kalki-kgp/PaperKnife?style=flat-square&color=gold"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/kalki-kgp/remote-terminal">terminal-connect</a></h3>
+      <p>Access your terminal from any device via browser. QR code connect, tmux integration, session persistence, mobile-optimized UI. Published to npm.</p>
+      <p>
+        <img src="https://img.shields.io/npm/dm/terminal-connect?style=flat-square&label=npm%20downloads&color=cc3534"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/kalki-kgp/remote-claw">remote-claw</a></h3>
+      <p>Run Claude Code from your phone. A React Native app + local TypeScript bridge that streams Claude's output and lets you approve/deny tool calls from anywhere on LAN.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSocket-black?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/kalki-kgp/whatsapp-mcp">whatsapp-mcp</a></h3>
+      <p>AI tool-calling layer for WhatsApp on macOS. LLM with tools to search contacts, read chats, send/schedule messages, and control it all via voice or browser.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/MCP-Protocol-black?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏏 <a href="https://github.com/kalki-kgp/cricket-scorer">cricket-scorer</a></h3>
+      <p>Real-time live cricket scoring with a public scoreboard and JWT-protected umpire panel. Built for intra-hall league scoring at IIT KGP.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
+        <img src="https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io"/>
+        <img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧹 <a href="https://github.com/kalki-kgp/munchkin">munchkin</a></h3>
+      <p>macOS menubar clipboard AI. Monitors your clipboard, sends multi-copy context to an LLM (Nebius/OpenAI/Anthropic/Groq), and puts the result back automatically. 10MB, no cloud.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white"/>
+        <img src="https://img.shields.io/badge/macOS-000?style=flat-square&logo=apple&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📈 GitHub Stats
+## Tech Stack
 
+**Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
+**Frameworks**
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?style=flat-square)
 
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalki-kgp&theme=tokyonight)
-![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalki-kgp&theme=tokyonight)
-![streak](https://streak-stats.demolab.com?user=kalki-kgp&theme=tokyonight&hide_border=true)
+**Cloud & Infra**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kalki-kgp&theme=tokyo-night&hide_border=true)
+---
 
+## GitHub Stats
 
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalki-kgp&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalki-kgp&theme=tokyonight" />
 
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=kalki-kgp&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalki-kgp&theme=tokyo-night&hide_border=true" />
+
+</div>
