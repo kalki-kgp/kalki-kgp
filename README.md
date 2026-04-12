@@ -49,12 +49,13 @@ I'm a builder at heart — full-stack systems, AI agents, real-time infrastructu
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/kalki-kgp/remote-claw">remote-claw</a></h3>
-      <p>Run Claude Code from your phone. A React Native app + local TypeScript bridge that streams Claude's output and lets you approve/deny tool calls from anywhere on LAN.</p>
+      <h3>📄 <a href="https://resumate.paperknife.app">Resumate</a></h3>
+      <p>AI-powered resume builder. Tailor job-ready resumes in minutes — live at <a href="https://resumate.paperknife.app">resumate.paperknife.app</a>.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebSocket-black?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/website-up-down-green-red/https/resumate.paperknife.app.svg?label=live"/>
       </p>
     </td>
     <td width="50%" valign="top">
