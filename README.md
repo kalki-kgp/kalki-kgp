@@ -38,12 +38,12 @@ I'm a builder at heart — full-stack systems, AI agents, real-time infrastructu
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🖥️ <a href="https://github.com/kalki-kgp/remote-terminal">terminal-connect</a></h3>
-      <p>Access your terminal from any device via browser. QR code connect, tmux integration, session persistence, mobile-optimized UI. Published to npm.</p>
+      <h3>💬 <a href="https://github.com/kalki-kgp/whatsapp-mcp">whatsapp-mcp</a></h3>
+      <p>AI tool-calling layer for WhatsApp on macOS. LLM with tools to search contacts, read chats, send/schedule messages, and control it all via voice or browser.</p>
       <p>
-        <img src="https://img.shields.io/npm/dm/terminal-connect?style=flat-square&label=npm%20downloads&color=cc3534"/>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/MCP-Protocol-black?style=flat-square"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square"/>
       </p>
     </td>
   </tr>
@@ -59,12 +59,12 @@ I'm a builder at heart — full-stack systems, AI agents, real-time infrastructu
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/kalki-kgp/whatsapp-mcp">whatsapp-mcp</a></h3>
-      <p>AI tool-calling layer for WhatsApp on macOS. LLM with tools to search contacts, read chats, send/schedule messages, and control it all via voice or browser.</p>
+      <h3>🖥️ <a href="https://github.com/kalki-kgp/remote-terminal">terminal-connect</a></h3>
+      <p>Access your terminal from any device via browser. QR code connect, tmux integration, session persistence, mobile-optimized UI. Published to npm.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-        <img src="https://img.shields.io/badge/MCP-Protocol-black?style=flat-square"/>
+        <img src="https://img.shields.io/npm/dm/terminal-connect?style=flat-square&label=npm%20downloads&color=cc3534"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square"/>
       </p>
     </td>
   </tr>
