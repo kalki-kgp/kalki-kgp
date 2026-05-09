@@ -59,12 +59,13 @@ I'm a builder at heart — full-stack systems, AI agents, real-time infrastructu
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🖥️ <a href="https://github.com/kalki-kgp/remote-terminal">terminal-connect</a></h3>
-      <p>Access your terminal from any device via browser. QR code connect, tmux integration, session persistence, mobile-optimized UI. Published to npm.</p>
+      <h3>📱 <a href="https://github.com/kalki-kgp/whatsapp-agent-cli">whatsapp-agent-cli</a></h3>
+      <p>Run Claude Code or Codex behind a WhatsApp number. Full CLI tool use, per-chat sessions, voice notes, vision. Self-hosted — nothing leaves your server.</p>
       <p>
-        <img src="https://img.shields.io/npm/dm/terminal-connect?style=flat-square&label=npm%20downloads&color=cc3534"/>
+        <img src="https://img.shields.io/pypi/v/whatsapp-agent-cli?color=25D366&label=pypi&style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square"/>
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
       </p>
     </td>
   </tr>
