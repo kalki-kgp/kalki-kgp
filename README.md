@@ -59,8 +59,8 @@ I'm a builder at heart — full-stack systems, AI agents, real-time infrastructu
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔗 <a href="https://github.com/kalki-kgp/Linkit">Linkit</a></h3>
-      <p>AirDrop for Android ↔ Mac. Drop files locally over your LAN with signed pairing and no cloud round-trip. Native SwiftUI menu bar app + Jetpack Compose Android client.</p>
+      <h3>🔗 <a href="https://linkit.paperknife.app">Linkit</a></h3>
+      <p>AirDrop for Android ↔ Mac. Drop files locally over your LAN with signed pairing and no cloud round-trip. Native SwiftUI menu bar app + Jetpack Compose Android client. Live at <a href="https://linkit.paperknife.app">linkit.paperknife.app</a>.</p>
       <p>
         <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
