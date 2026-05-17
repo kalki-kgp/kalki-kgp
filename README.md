@@ -59,6 +59,18 @@ I'm a builder at heart — full-stack systems, AI agents, real-time infrastructu
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>🔗 <a href="https://github.com/kalki-kgp/Linkit">Linkit</a></h3>
+      <p>AirDrop for Android ↔ Mac. Drop files locally over your LAN with signed pairing and no cloud round-trip. Native SwiftUI menu bar app + Jetpack Compose Android client.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SwiftUI-0085CA?style=flat-square&logo=swift&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📱 <a href="https://github.com/kalki-kgp/whatsapp-agent-cli">whatsapp-agent-cli</a></h3>
       <p>Run Claude Code or Codex behind a WhatsApp number. Full CLI tool use, per-chat sessions, voice notes, vision. Self-hosted — nothing leaves your server.</p>
       <p>
@@ -66,17 +78,6 @@ I'm a builder at heart — full-stack systems, AI agents, real-time infrastructu
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏏 <a href="https://github.com/kalki-kgp/cricket-scorer">cricket-scorer</a></h3>
-      <p>Real-time live cricket scoring with a public scoreboard and JWT-protected umpire panel. Built for intra-hall league scoring at IIT KGP.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
-        <img src="https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io"/>
-        <img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
