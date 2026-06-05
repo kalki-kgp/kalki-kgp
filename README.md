@@ -81,7 +81,7 @@ I'm a builder at heart — full-stack systems, AI agents, real-time infrastructu
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧹 <a href="https://github.com/kalki-kgp/munchkin">munchkin</a></h3>
+      <h3>🧹 <a href="https://github.com/kalki-kgp/callmind">callmind</a></h3>
       <p>macOS menubar clipboard AI. Monitors your clipboard, sends multi-copy context to an LLM (Nebius/OpenAI/Anthropic/Groq), and puts the result back automatically. 10MB, no cloud.</p>
       <p>
         <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white"/>
