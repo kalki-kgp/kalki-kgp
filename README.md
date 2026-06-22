@@ -18,8 +18,9 @@
 I'm a builder at heart — full-stack systems, AI agents, real-time infrastructure, privacy-first products. I care about software that works at scale and ships to real users.
 
 - 🥇 **Gold Medal** — Inter-IIT Tech Meet 13.0 as a Development Team member worked on FedEx Problem Statement
-- 🏗️ **Software Engineer, Founding Team** @ Neosophical Labs — AI-powered HRMS automation for UK enterprise clients,
+- 🏗️ **Software Engineer, Founding Team** @ Neosophical Labs — AI-powered HRMS automation for UK enterprise clients
 - 💼 **SWE Intern** @ FruitBowl Digital Media — AI agents, LiveKit, vLLM, RAG pipelines, Kubernetes
+- 🏗️ **AI Engineer Intern** @Pixel Chutney — Media Research Agent, Instagram Marketing Automation
 
 ---
 
